@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:void="http://rdfs.org/ns/void#"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#">
+
+  <rdf:Description rdf:nodeID="MBLWHOILibrary_Repository_VoID_Document">
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <void:feature rdf:resource="http://lod.dataone.org/fulldump"/>
+    <void:dataDump rdf:resource="http://www.bco-dmo.org/rdf/geolink/affiliation.rdf"/>
+    <void:dataDump rdf:resource="http://www.bco-dmo.org/rdf/geolink/authority.rdf"/>
+    <void:dataDump rdf:resource="http://www.bco-dmo.org/rdf/geolink/award.rdf"/>
+    <void:dataDump rdf:resource="http://www.bco-dmo.org/rdf/geolink/dataset.rdf"/>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-25</dc:modified>
+  </rdf:Description>
+
+</rdf:RDF>

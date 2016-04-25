@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:geolink="http://schema.geolink.org/1.0/base/main#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dspace="http://digital-repositories.org/ontologies/dspace/0.1.0#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:sesame="http://www.openrdf.org/schema/sesame#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:fn="http://www.w3.org/2005/xpath-functions#">
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/3088/1/CR_C-139A.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:2e4862ba-ae2c-43f8-8697-b0025003e73c"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/1007/1/WHOI-90-15.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:e7d1ac61-f985-4469-aee3-8b990929c825"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/1792/1/WHOI-76-85.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:e7d1ac61-f985-4469-aee3-8b990929c825"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/6475/1/WHOI-89-24_data.zip">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:e7d1ac61-f985-4469-aee3-8b990929c825"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/6475/2/Supplementary%20information.txt">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:e7d1ac61-f985-4469-aee3-8b990929c825"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/6475/3/WHOI-89-24.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:e7d1ac61-f985-4469-aee3-8b990929c825"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/6978/1/WHOI-79-16.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:e7d1ac61-f985-4469-aee3-8b990929c825"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/6977/1/WHOI-79-13.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:e7d1ac61-f985-4469-aee3-8b990929c825"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/3354/1/WHOI%2085-3.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:e7d1ac61-f985-4469-aee3-8b990929c825"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/1751/1/S206%20Cruise%20Report.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:08102218-36c8-4f07-995b-5669273c3dc2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/1752/1/S207%20Cruise%20Report.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:08102218-36c8-4f07-995b-5669273c3dc2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/1755/1/C200%20Cruise%20Report.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:08102218-36c8-4f07-995b-5669273c3dc2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/1758/1/C204%20Cruise%20Report.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:21ba1986-7f67-4057-a2fa-42f2bf482c68"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/1759/1/C209%20Cruise%20Report.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:a5a39c9b-c941-4bda-bad8-d29612508d38"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/6261/1/CR_W-61.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:6a49166e-38bd-41e2-bca1-225ee188dea8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/7955/1/WHOI-86-29.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:65fe32d0-0a99-4639-b5ee-284dcb607adb"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/7956/1/WHOI-86-31.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:7fda9284-0cf8-4dde-915a-ef47e665fa3a"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/7957/1/WHOI-86-33.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:66543fee-4525-434b-9b70-71959c5b6342"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/7956/1/WHOI-86-31.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:f729cac5-e78f-4142-bbc9-fd9b25c91f41"/>
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:dece0a4e-6768-48f3-9f62-f9209e29970e"/>
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:38c82efe-0f17-4682-bdb4-8e41cd36ac71"/>
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:06b86b7c-6c96-4b7d-bf91-a5115c00dc12"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/7955/1/WHOI-86-29.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:e38e8c6b-f1ee-402c-a919-847957722d0f"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/1912/7961/1/WHOI-86-34.pdf">
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:96943d33-9146-4752-91c4-b5b10102aa97"/>
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:a9c1b006-32bf-4b6f-a8d8-fefd078811db"/>
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:8675a469-01d9-4ca8-9e35-e3198fe23d00"/>
+	<geolink:hasContributor rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:98948c8e-5385-40ba-be59-3fa52980ed9a"/>
+</rdf:Description>
+
+</rdf:RDF>

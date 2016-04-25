@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:geolink="http://schema.geolink.org/1.0/base/main#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:person="http://dspace.org/person/"
+	xmlns:dspace="http://digital-repositories.org/ontologies/dspace/0.1.0#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:sesame="http://www.openrdf.org/schema/sesame#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:fn="http://www.w3.org/2005/xpath-functions#">
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:66543fee-4525-434b-9b70-71959c5b6342">
+	<geolink:hasIdentifier rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:66543fee-4525-434b-9b70-71959c5b6342#orcid"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:66543fee-4525-434b-9b70-71959c5b6342#orcid">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Identifier"/>
+	<geolink:hasIdentifierValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0000-0002-9354-4220</geolink:hasIdentifierValue>
+	<geolink:hasIdentifierScheme rdf:resource="http://purl.spar.org/datacite/orcid"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:f729cac5-e78f-4142-bbc9-fd9b25c91f41">
+	<geolink:hasIdentifier rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:f729cac5-e78f-4142-bbc9-fd9b25c91f41#orcid"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:f729cac5-e78f-4142-bbc9-fd9b25c91f41#orcid">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Identifier"/>
+	<geolink:hasIdentifierValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0000-0001-9115-2445</geolink:hasIdentifierValue>
+	<geolink:hasIdentifierScheme rdf:resource="http://purl.spar.org/datacite/orcid"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:e7d1ac61-f985-4469-aee3-8b990929c825">
+	<geolink:hasIdentifier rdf:resource="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:e7d1ac61-f985-4469-aee3-8b990929c825#orcid"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:e7d1ac61-f985-4469-aee3-8b990929c825#orcid">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Identifier"/>
+	<geolink:hasIdentifierValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0000-0002-6059-4651</geolink:hasIdentifierValue>
+	<geolink:hasIdentifierScheme rdf:resource="http://purl.spar.org/datacite/orcid"/>
+</rdf:Description>
+
+</rdf:RDF>

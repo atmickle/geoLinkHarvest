@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dspace="http://digital-repositories.org/ontologies/dspace/0.1.0#"
+	xmlns:geolink="http://schema.geolink.org/1.0/base/main#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:person="http://dspace.org/person/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:sesame="http://www.openrdf.org/schema/sesame#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:fn="http://www.w3.org/2005/xpath-functions#">
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:2e4862ba-ae2c-43f8-8697-b0025003e73c">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zettler, Erik R.</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zettler</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Erik R.</geolink:hasGivenName>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:e7d1ac61-f985-4469-aee3-8b990929c825">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wiebe, Peter H.</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wiebe</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Peter</geolink:hasGivenName>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:08102218-36c8-4f07-995b-5669273c3dc2">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schell, Jeffrey M.</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schell</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jeffrey M.</geolink:hasGivenName>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:21ba1986-7f67-4057-a2fa-42f2bf482c68">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scott, Timothy</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scott</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Timothy</geolink:hasGivenName>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:a5a39c9b-c941-4bda-bad8-d29612508d38">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Siuda, Amy N. S.</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Siuda</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amy N. S.</geolink:hasGivenName>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:6a49166e-38bd-41e2-bca1-225ee188dea8">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stoner, Allan W.</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stoner</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Allan W.</geolink:hasGivenName>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:65fe32d0-0a99-4639-b5ee-284dcb607adb">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bryden, Harry L.</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bryden</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harry L.</geolink:hasGivenName>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:7fda9284-0cf8-4dde-915a-ef47e665fa3a">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Price, James F.</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Price</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">James F.</geolink:hasGivenName>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:66543fee-4525-434b-9b70-71959c5b6342">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montgomery, Ellyn T.</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montgomery</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ellyn T.</geolink:hasGivenName>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:f729cac5-e78f-4142-bbc9-fd9b25c91f41">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Richardson, Philip L.</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Richardson</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Philip L.</geolink:hasGivenName>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:dece0a4e-6768-48f3-9f62-f9209e29970e">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valdes, James R.</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valdes</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">James R.</geolink:hasGivenName>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:38c82efe-0f17-4682-bdb4-8e41cd36ac71">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">McKee, Theresa K.</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">McKee</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theresa K.</geolink:hasGivenName>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:06b86b7c-6c96-4b7d-bf91-a5115c00dc12">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Armi, Laurence</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Armi</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Laurence</geolink:hasGivenName>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:e38e8c6b-f1ee-402c-a919-847957722d0f">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kinder, Thomas H.</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kinder</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thomas H.</geolink:hasGivenName>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:96943d33-9146-4752-91c4-b5b10102aa97">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bailey, Connor</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bailey</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Connor</geolink:hasGivenName>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:a9c1b006-32bf-4b6f-a8d8-fefd078811db">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harris, Criag K.</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harris</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Criag K.</geolink:hasGivenName>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:8675a469-01d9-4ca8-9e35-e3198fe23d00">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Heaton, Clayton</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Heaton</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clayton</geolink:hasGivenName>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://darchive.mblwhoilibrary.org/rdf/resource/concept/uuid:98948c8e-5385-40ba-be59-3fa52980ed9a">
+	<rdf:type rdf:resource="http://schema.geolink.org/1.0/base/main#Person"/>
+	<geolink:hasFullName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ladner, Rosamund</geolink:hasFullName>
+	<geolink:hasFamilyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ladner</geolink:hasFamilyName>
+	<geolink:hasGivenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rosamund</geolink:hasGivenName>
+</rdf:Description>
+
+</rdf:RDF>
